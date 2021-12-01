@@ -12,6 +12,19 @@ Boletins
 #
 Licenças e Certificados
 
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+
 
 
 
