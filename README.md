@@ -1,4 +1,4 @@
-# FaculdadeImpacta - Análise e Desenvolvimento de Sistemas
+# Faculdade Impacta - Análise e Desenvolvimento de Sistemas
 # Boletins
 <div>
   <a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
