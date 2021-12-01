@@ -28,13 +28,11 @@ Licenças e Certificados
 
 <a href="https://edools-3-production.s3.amazonaws.com/org-6352/school-7367/certificates/enrollment-4849408/course-31409-xinid.pdf">Fundamentos de Machine Learning</a>
 
-<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://edools-3-production.s3.amazonaws.com/org-6352/school-7367/certificates/enrollment-5022744/course-14802-fnrhl.pdf">Conceito e Infraestrutura de Redes</a>
 
-<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
+<a href="https://edools-3-production.s3.amazonaws.com/org-6352/school-7367/certificates/enrollment-5022744/course-30446-hpenn.pdf">Fundamentos de Inteligência Artificial</a>
 
-<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
 
-<a href="https://account.impacta.edu.br/aluno/boletim-ac.print.php?codigo=MDE2TVRZek9ETXhNakEyTXc9PU56QXpNREE9">Semestre 1/6</a>
 
 
 
