@@ -11,7 +11,7 @@ Boletins
 #
 Licenças e Certificados
 
-<a href="https://edools-3-production.s3.amazonaws.com/org-6352/school-7367/certificates/enrollment-4849072/course-15076-lysxe.pdf" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>
+<!--<a href="https://edools-3-production.s3.amazonaws.com/org-6352/school-7367/certificates/enrollment-4849072/course-15076-lysxe.pdf" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>-->
 
 <a href="https://edools-3-production.s3.amazonaws.com/org-6352/school-7367/certificates/enrollment-4849072/course-15076-lysxe.pdf">Angular 4</a>
 
